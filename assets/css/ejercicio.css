@@ -1,0 +1,38 @@
+.verde{
+    margin: 0 auto;
+    width: 400px;
+    height: auto;
+    background-color: green;
+    border: 10px solid lightblue;
+    border-radius: 10px;
+}
+
+.titulo{
+    color: white;
+    margin-left: 50px;
+}
+
+.espaciar{
+    margin-left: 100px;
+    color: white;
+    
+}
+
+.fijo{
+    width: 80px;
+    display: inline-block;
+}
+
+.rojo{
+    border: 2px solid red
+}
+
+.boton{
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-top: 2px dashed white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
